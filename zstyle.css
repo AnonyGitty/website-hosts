@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap'); /* font-family: 'Kaushan Script', cursive;*/
 @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap'); /*font-family: 'Righteous', cursive;*/
 @import url('https://fonts.googleapis.com/css2?family=Corben&display=swap'); /*font-family: 'Corben', cursive;*/
-@import url('https://fonts.googleapis.com/css2?family=Holtwood+One+SC&display=swap'); /* font-family: 'Holtwood One SC', serif; */
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap'); /* Nice font */
 
 body {
 	background: #282a36;
@@ -18,7 +18,7 @@ h1 {
 	font-size: 30px;
 	margin: 15px;
 	padding-bottom: 10px;
-	font-family: 'Holtwood One SC', serif;
+	font-family: 'Permanent Marker', cursive;
 	background-color: #48c6ef;
 background-image: linear-gradient(315deg, #48c6ef 0%, #6f86d6 72%);
     -webkit-background-clip: text;
