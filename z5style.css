@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
 
-body{ background-color:#202020;}
+body{ background-color:#282a36;}
 
 .bar{
   margin:0 auto;
@@ -22,7 +22,7 @@ body{ background-color:#202020;}
   width:500px;
   font-size:16px;
   outline: none;
-  background-color: #202020;
+  background-color: #282a36;
   color: #fff;
   font-family: 'Righteous', cursive;
   
