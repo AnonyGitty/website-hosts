@@ -47,11 +47,12 @@ body{ background-color:#282a36;}
   outline:none;
   width: 130px;
   text-transform: uppercase;
+  transition: all 0.3s ease 0s;
   cursor: pointer;
   font-family: 'Righteous', cursive;
 }
 .button:hover{
-  box-shadow: 0px 14px 22px rgba(255, 128, 191);
+  box-shadow: 0px 14px 22px rgba(138, 255, 128);
   color: #282a36;
   transform: translateY(-5px);
 }
