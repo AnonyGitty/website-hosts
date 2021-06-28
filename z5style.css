@@ -50,6 +50,17 @@ body{ background-color:#282a36;}
   font-family: 'Righteous', cursive;
 }
 
+/** Text Selection Color **/
+::-moz-selection { /* Firefox */
+  color: #6272a4;
+  background: #f8f8f2;
+}
+
+::selection {
+  color: #6272a4;
+  background: #f8f8f2;
+}
+
 
 @media only screen and (min-width : 100px) and (max-width : 780px)
 {
