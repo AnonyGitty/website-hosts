@@ -36,7 +36,8 @@ body{ background-color:#282a36;}
 }
 
 .button{
-  background: linear-gradient(90deg,red 0,#a100ff);
+  background: linear-gradient(90deg,#92ffff,#50fa7b);
+  transition: all .3s ease-in-out;
   border:none;
   color:#fff;
   font-size:15px;
