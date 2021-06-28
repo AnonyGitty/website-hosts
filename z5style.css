@@ -10,10 +10,10 @@ body{ background-color:#282a36;}
   font-family: 'Righteous', cursive;
 }
 .bar:hover{
-  box-shadow: 1px 1px 7px 1px #FF0091;
+  box-shadow: 1px 1px 7px 1px #ff79c6;
 }
 .bar:focus-within{
-  box-shadow: 1px 1px 7px 1px #EC0034;
+  box-shadow: 1px 1px 7px 1px #ff5555;
   outline:none;
 }
 .searchbar{
